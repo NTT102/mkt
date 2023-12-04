@@ -12,7 +12,7 @@ const CourseTabs = () => {
                         return "text-gray-400 text-lg font-semibold border-b border-transparent outline-none first-letter:uppercase py-2";
                     }}
                 >
-                    cài đặt
+                    Đào Tạo
                 </Tab>
                 <Tab
                     className={({ selected }) => {
@@ -22,37 +22,7 @@ const CourseTabs = () => {
                         return "text-gray-400 text-lg font-semibold border-b border-transparent outline-none first-letter:uppercase py-2";
                     }}
                 >
-                    sử dụng
-                </Tab>
-                <Tab
-                    className={({ selected }) => {
-                        if (selected)
-                            return "text-white text-lg font-semibold border-b border-white outline-none first-letter:uppercase py-2";
-
-                        return "text-gray-400 text-lg font-semibold border-b border-transparent outline-none first-letter:uppercase py-2";
-                    }}
-                >
-                    tính năng
-                </Tab>
-                <Tab
-                    className={({ selected }) => {
-                        if (selected)
-                            return "text-white text-lg font-semibold border-b border-white outline-none first-letter:uppercase py-2";
-
-                        return "text-gray-400 text-lg font-semibold border-b border-transparent outline-none first-letter:uppercase py-2";
-                    }}
-                >
-                    đào tạo
-                </Tab>
-                <Tab
-                    className={({ selected }) => {
-                        if (selected)
-                            return "text-white text-lg font-semibold border-b border-white outline-none first-letter:uppercase py-2";
-
-                        return "text-gray-400 text-lg font-semibold border-b border-transparent outline-none first-letter:uppercase py-2";
-                    }}
-                >
-                    chuỗi thanh toán
+                    Tài liệu
                 </Tab>
             </Tab.List>
         </div>
