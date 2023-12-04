@@ -1,5 +1,3 @@
-import { FaMapLocation } from "react-icons/fa6";
-
 import Logo from "../assets/logo.jpg";
 
 const Footer = () => {
