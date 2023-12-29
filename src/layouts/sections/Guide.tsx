@@ -52,12 +52,7 @@ const Guide = () => (
                                         />
                                     </Disclosure.Button>
                                     <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://youtube.com/embed/pcYUADDbbyM?si=SGWGEu-ZDayzg803"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -78,13 +73,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://youtube.com/embed/z4FGRIaEqgI?si=vj6TeB062Iuy7m1R"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -105,12 +95,7 @@ const Guide = () => (
                                         />
                                     </Disclosure.Button>
                                     <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/e-HGF2W8YPk?si=2WJP3wdKT2MLtI7O"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -131,12 +116,7 @@ const Guide = () => (
                                         />
                                     </Disclosure.Button>
                                     <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/2DY5ZLt7qA8?si=bzA3DVHdGV643gF9"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -156,13 +136,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://youtube.com/embed/p5MHK3rl6vc?si=rCnNsoXAWoSa8DlB"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -182,13 +157,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/rykAth43w-8?si=AgvZ4WwgFVY5cjvo"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -208,13 +178,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://youtube.com/embed/Vz7XGSQSqhY?si=EJ42WIki9oH7tvLz"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -234,13 +199,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -260,13 +220,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://youtube.com/embed/cbiF0gge2AU?si=UVbM_qsmEwoZ53ij"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -287,12 +242,7 @@ const Guide = () => (
                                         />
                                     </Disclosure.Button>
                                     <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -312,13 +262,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -338,13 +283,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -364,13 +304,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -390,13 +325,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -416,13 +346,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                  <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -445,13 +370,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/pxIdBTygLJI?si=juFANs-Nuna3VuUV"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -471,13 +391,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/bVfXCtuGM9A?si=R-w0FOYMXJU6b8BL"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -498,13 +413,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/2DY5ZLt7qA8?si=bzA3DVHdGV643gF9"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -525,13 +435,8 @@ const Guide = () => (
                                             } h-5 w-5 text-black`}
                                         />
                                     </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://youtube.com/embed/p5MHK3rl6vc?si=rCnNsoXAWoSa8DlB"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                   <Disclosure.Panel className="text-sm text-gray-500">
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -553,12 +458,7 @@ const Guide = () => (
                                         />
                                     </Disclosure.Button>
                                     <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/1zaDC46RxbQ?si=IFyWuWINT00_tBoq"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
@@ -579,12 +479,7 @@ const Guide = () => (
                                         />
                                     </Disclosure.Button>
                                     <Disclosure.Panel className="text-sm text-gray-500">
-                                        <iframe
-                                            className="w-full aspect-video"
-                                            src="https://www.youtube.com/embed/1FSXTsNoy14?si=MEd1dLFAzQAtjpu5"
-                                            title="YouTube video player"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        ></iframe>
+                                        <p> đang đẩy video lên</p>
                                     </Disclosure.Panel>
                                 </>
                             )}
