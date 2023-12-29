@@ -360,7 +360,7 @@ const Guide = () => (
                                 <>
                                     <Disclosure.Button className="flex w-full justify-between rounded-lg bg-white text-black px-4 py-2 text-left text-sm font-medium hover:bg-blue-100 focus:outline-none focus-visible:ring focus-visible:ring-blue-500/75">
                                         <span className="block text-base first-letter:uppercase font-semibold">
-                                            Bài 11 : Update 2 dạng video hottrend mới Tiktok,Facebook
+                                            tài liệu 1 
                                         </span>
                                         <IoIosArrowDown
                                             className={`${
@@ -376,114 +376,11 @@ const Guide = () => (
                                 </>
                             )}
                         </Disclosure>
-                        <Disclosure>
-                            {({ open }) => (
-                                <>
-                                    <Disclosure.Button className="flex w-full justify-between rounded-lg bg-white text-black px-4 py-2 text-left text-sm font-medium hover:bg-blue-100 focus:outline-none focus-visible:ring focus-visible:ring-blue-500/75">
-                                        <span className="block text-base first-letter:uppercase font-semibold">
-                                            Bài 12 : Hướng dẫn sử dụng D-ID,V-bee, Heygen miễn phí ( tiết kiệm 20tr đồng )
-                                        </span>
-                                        <IoIosArrowDown
-                                            className={`${
-                                                open
-                                                    ? "rotate-180 transform"
-                                                    : ""
-                                            } h-5 w-5 text-black`}
-                                        />
-                                    </Disclosure.Button>
-                                   <Disclosure.Panel className="text-sm text-gray-500">
-                                        <p> đang đẩy video lên</p>
-                                    </Disclosure.Panel>
-                                </>
-                            )}
-                        </Disclosure>
-                        <Disclosure>
-                            {({ open }) => (
-                                <>
-                                    <Disclosure.Button className="flex w-full justify-between rounded-lg bg-white text-black px-4 py-2 text-left text-sm font-medium hover:bg-blue-100 focus:outline-none focus-visible:ring focus-visible:ring-blue-500/75">
-                                        <span className="block text-base first-letter:uppercase font-semibold">
-                                            hướng dẫn đo các chỉ số bằng đồng hồ
-                                            (Life Watch gen 2)
-                                        </span>
-                                        <IoIosArrowDown
-                                            className={`${
-                                                open
-                                                    ? "rotate-180 transform"
-                                                    : ""
-                                            } h-5 w-5 text-black`}
-                                        />
-                                    </Disclosure.Button>
-                                   <Disclosure.Panel className="text-sm text-gray-500">
-                                        <p> đang đẩy video lên</p>
-                                    </Disclosure.Panel>
-                                </>
-                            )}
-                        </Disclosure>
-                        <Disclosure>
-                            {({ open }) => (
-                                <>
-                                    <Disclosure.Button className="flex w-full justify-between rounded-lg bg-white text-black px-4 py-2 text-left text-sm font-medium hover:bg-blue-100 focus:outline-none focus-visible:ring focus-visible:ring-blue-500/75">
-                                        <span className="block text-base first-letter:uppercase font-semibold">
-                                            hướng dẫn đo các chỉ số bằng vòng
-                                            tay (Biosense Band)
-                                        </span>
-                                        <IoIosArrowDown
-                                            className={`${
-                                                open
-                                                    ? "rotate-180 transform"
-                                                    : ""
-                                            } h-5 w-5 text-black`}
-                                        />
-                                    </Disclosure.Button>
-                                   <Disclosure.Panel className="text-sm text-gray-500">
-                                        <p> đang đẩy video lên</p>
-                                    </Disclosure.Panel>
-                                </>
-                            )}
-                        </Disclosure>
-                        <Disclosure>
-                            {({ open }) => (
-                                <>
-                                    <Disclosure.Button className="flex w-full justify-between rounded-lg bg-white text-black px-4 py-2 text-left text-sm font-medium hover:bg-blue-100 focus:outline-none focus-visible:ring focus-visible:ring-blue-500/75">
-                                        <span className="block text-base first-letter:uppercase font-semibold">
-                                            hướng dẫn kích hoạt 4 chỉ số chuyên
-                                            sâu
-                                        </span>
-                                        <IoIosArrowDown
-                                            className={`${
-                                                open
-                                                    ? "rotate-180 transform"
-                                                    : ""
-                                            } h-5 w-5 text-black`}
-                                        />
-                                    </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <p> đang đẩy video lên</p>
-                                    </Disclosure.Panel>
-                                </>
-                            )}
-                        </Disclosure>
-                        <Disclosure>
-                            {({ open }) => (
-                                <>
-                                    <Disclosure.Button className="flex w-full justify-between rounded-lg bg-white text-black px-4 py-2 text-left text-sm font-medium hover:bg-blue-100 focus:outline-none focus-visible:ring focus-visible:ring-blue-500/75">
-                                        <span className="block text-base first-letter:uppercase font-semibold">
-                                            hướng dẫn khởi động lại vòng tay
-                                        </span>
-                                        <IoIosArrowDown
-                                            className={`${
-                                                open
-                                                    ? "rotate-180 transform"
-                                                    : ""
-                                            } h-5 w-5 text-black`}
-                                        />
-                                    </Disclosure.Button>
-                                    <Disclosure.Panel className="text-sm text-gray-500">
-                                        <p> đang đẩy video lên</p>
-                                    </Disclosure.Panel>
-                                </>
-                            )}
-                        </Disclosure>
+                        
+                       
+                       
+                   
+                        
                     </Tab.Panel>
                 </Tab.Panels>
             </Tab.Group>
