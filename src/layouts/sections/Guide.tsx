@@ -31,7 +31,12 @@ const Guide = () => (
                                         />
                                     </Disclosure.Button>
                                     <Disclosure.Panel className="text-sm text-gray-500">
-                                        <p> đang đẩy video lên</p>
+                                        <iframe
+                                            className="w-full aspect-video"
+                                            src="https://www.youtube.com/embed/iOWUs8zqQ2c?si=jE_uyYGTp4PHUGmO"
+                                            title="YouTube video player"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                        ></iframe>
                                     </Disclosure.Panel>
                                 </>
                             )}
